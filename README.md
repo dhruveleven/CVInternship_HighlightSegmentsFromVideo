@@ -1,0 +1,1 @@
+# CVInternship_HighlightSegmentsFromVideo
